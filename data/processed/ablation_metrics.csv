@@ -1,0 +1,4 @@
+Experimento,RMSE_MXN_m2,MAPE_pct,R2_espacial
+1. Solo Inmueble,7197.6,13.22,0.7522
+2. Geoespacial ,7307.3,13.28,0.7446
+3. IA Multimodal ,7003.2,12.82,0.7654

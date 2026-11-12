@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.env
+.DS_Store
+Thumbsumbs.db
+.vscode/
+.idea/
+data/raw/*
+data/processed/*
+!data/processed/predictions_oof.parquet
+!data/processed/ablation_metrics.csv
